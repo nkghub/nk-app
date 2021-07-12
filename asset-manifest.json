@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nk-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/nk-app/static/js/main.ca43aad3.chunk.js",
+    "main.js.map": "/nk-app/static/js/main.ca43aad3.chunk.js.map",
+    "runtime-main.js": "/nk-app/static/js/runtime-main.6735ff3b.js",
+    "runtime-main.js.map": "/nk-app/static/js/runtime-main.6735ff3b.js.map",
+    "static/js/2.b5a08be7.chunk.js": "/nk-app/static/js/2.b5a08be7.chunk.js",
+    "static/js/2.b5a08be7.chunk.js.map": "/nk-app/static/js/2.b5a08be7.chunk.js.map",
+    "static/js/3.eeee766a.chunk.js": "/nk-app/static/js/3.eeee766a.chunk.js",
+    "static/js/3.eeee766a.chunk.js.map": "/nk-app/static/js/3.eeee766a.chunk.js.map",
+    "index.html": "/nk-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/nk-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b5a08be7.chunk.js.LICENSE.txt": "/nk-app/static/js/2.b5a08be7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nk-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6735ff3b.js",
+    "static/js/2.b5a08be7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ca43aad3.chunk.js"
+  ]
+}
